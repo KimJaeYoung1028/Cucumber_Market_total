@@ -35,19 +35,9 @@
 
 ## 작품 소개 사진
 
-<img src=“https://github.com/KimJaeYoung1028/demod/assets/124559290/8bee6367-eda7-4cff-b95f-129158442f04” width=“30%” height=“40%”>
-<img src=“https://github.com/KimJaeYoung1028/demod/assets/124559290/fee85f89-6445-441e-b685-287d0d8a272e” width=“30%” height=“40%”>
-<img src=“https://github.com/KimJaeYoung1028/demod/assets/124559290/1d00b222-d6d6-4386-a79a-066abe46e5d2” width=“30%” height=“40%”>
-<img src=“https://github.com/KimJaeYoung1028/demod/assets/124559290/e8310912-12f1-4aa1-8083-09ff0181e77c” width=“30%” height=“40%”>
-<img src=“https://github.com/KimJaeYoung1028/demod/assets/124559290/ff9822c0-72b9-4cbb-9221-1dba717ee6df” width=“30%” height=“40%”>
-<img src=“https://github.com/KimJaeYoung1028/demod/assets/124559290/f1842bb6-2378-48e5-b3d9-09cb346ba2db” width=“30%” height=“40%”>
-<img src=“https://github.com/KimJaeYoung1028/demod/assets/124559290/f65cc644-19bb-48a5-b74f-fc2ed73493b5” width=“30%” height=“40%”>
-<img src=“https://github.com/KimJaeYoung1028/demod/assets/124559290/afc09392-fd3c-460d-8427-d591e5203605” width=“30%” height=“40%”>
-<img src=“https://github.com/KimJaeYoung1028/demod/assets/124559290/2ff11383-9652-4069-bae8-34d930003386” width=“30%” height=“40%”>
-<img src=“https://github.com/KimJaeYoung1028/demod/assets/124559290/ff7fe694-cdae-4694-aae8-ff38eaf65bb7” width=“30%” height=“40%”>
-<img src=“https://github.com/KimJaeYoung1028/demod/assets/124559290/202f2592-adf1-4fa0-87bc-f593279473f1” width=“30%” height=“40%”>
-<img src=“https://github.com/KimJaeYoung1028/demod/assets/124559290/b072d09e-16ee-433a-bcc6-630e042d8f4e” width=“30%” height=“40%”>
-
+![슬라이드1](https://github.com/KimJaeYoung1028/demod/assets/124559290/7fceda75-4a87-49d5-9213-1f79a90d6998)
+![슬라이드2](https://github.com/KimJaeYoung1028/demod/assets/124559290/609a3195-66a8-4847-893e-b8cdde18a9b7)
+![슬라이드3](https://github.com/KimJaeYoung1028/demod/assets/124559290/e2b69ddd-98c9-44f6-979e-215e3af6bc79)
 
 <br/><br/>
 
